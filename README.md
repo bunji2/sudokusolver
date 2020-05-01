@@ -21,3 +21,7 @@ conf.json に記録されている各初期値が表示される。
 |reset|初期値にリセットする|
 |copy|マス目の値をクリップボードにコピーする|
 |resolve|空のマス目を解決する|
+
+## Download
+
+https://github.com/bunji2/sudokusolver/releases
