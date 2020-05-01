@@ -1,5 +1,5 @@
 ![icon](src/icon.png)
-# sudokusolver
+# Sudoku Solver
 
 9x9 マスの数独を解くプログラム
 
