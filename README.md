@@ -25,4 +25,6 @@ conf.json に記録されている各初期値が表示される。
 
 ## Download
 
+Sudoku Solver for windows10 v1.0a
+
 https://github.com/bunji2/sudokusolver/releases
