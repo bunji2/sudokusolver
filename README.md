@@ -1,3 +1,4 @@
+![icon](src/icon.png)
 # sudokusolver
 
 9x9 マスの数独を解くプログラム
